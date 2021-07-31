@@ -1,4 +1,3 @@
-;# Factorial
 ;este es un programa que lee 2 terminos y permite calcular el factorial ,se uso emu 8086,utiliza macros etc,esta comentado para mayor comprencion del funcionmamiento
  printf_num macro reg           ;nombre del macro "macro" y parametros
   mov ah,02h
